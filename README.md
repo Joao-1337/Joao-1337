@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Silva 👋
 
-<!--
-**Joao-1337/Joao-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia desde pequeno.  
+Desde que tive meu primeiro contato com computadores, me encantei pelo mundo da computação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Amo jogar nos meus momentos livres  
+- 🎓 Atualmente faço faculdade de Gestão da Tecnologia da Informação  
+- 💻 Minhas linguagens favoritas são Java e Python  
+- 🚀 Acredito que "Eu nunca desisto." — *Elon Musk*
+
+---
+
+## Minhas linguagens favoritas
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+---
+
+## Meu gráfico de commits
+
+![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
