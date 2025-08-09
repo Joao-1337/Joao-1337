@@ -21,4 +21,4 @@ Desde que tive meu primeiro contato com computadores, me encantei pelo mundo da 
 
 ## Meu gráfico de commits
 
-![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-1337&show_icons=true&theme=radical)
